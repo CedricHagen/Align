@@ -3,8 +3,7 @@ library(dplyr)
 library(ggplot2)
 library(ggtext)
 library(viridis)
-source("~/Desktop/Align/dtw_r.R")
-setwd("~/Desktop/Align/")
+library(align)
 
 ui <- fluidPage(
   navbarPage("Align",
