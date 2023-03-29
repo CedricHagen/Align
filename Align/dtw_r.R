@@ -1,10 +1,5 @@
 dtw_r <- function(target,candidate,g,edge){
 
-# target=targetdata
-# candidate=candidatexy
-# g=0.98
-# edge=0.11
-
 
 library(matlab)
 library(ggplot2)
